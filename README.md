@@ -59,5 +59,3 @@ Our analysis revealed that many participants did not meet the weekly moderate ac
 - **Statistical Analysis**: Hypothesis testing, descriptive statistics
 - **Notebook Environment**: Jupyter
 
-
-Feel free to adjust the content to include any additional specifics or personal details!
